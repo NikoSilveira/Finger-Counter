@@ -3,6 +3,8 @@ Image recognition program that detects the gestures of the hand for counting fro
 
 This simple program uses the hand tracking module (https://github.com/NikoSilveira/Image-Recognition-Modules/tree/main/1.%20Hand%20Tracking) to scan the positions of the fingertips relative to the phalanges to determine how many fingers are "up" at a given time. Can be utilized for further development of more advanced applications.
 
+Currently works for the right hand only.
+
 ![](images/fingers0.png)
 
 ![](images/fingers2.png)
